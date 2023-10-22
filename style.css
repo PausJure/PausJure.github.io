@@ -23,11 +23,11 @@
 }
 
 .logo{
-	width: 120px;
+	width: 150px;
 	cursor: pointer;
 }
 
-.navbar ul li{
+.barradinav ul li{
 	list-style: none;
 	display: inline-block;
 	margin: 0 20px;
