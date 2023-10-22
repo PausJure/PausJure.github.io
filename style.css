@@ -6,13 +6,10 @@
 
 .background{
 	width: 100%;
-	height: auto;
+	height: 100vh;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(Background.jpeg);
 	background-size: cover;
 	background-position: center;
- 	-webkit-background-size: cover;
-  	-moz-background-size: cover;
- 	-o-background-size: cover;
 }
 
 .barradinav{
