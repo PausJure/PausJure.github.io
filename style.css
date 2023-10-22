@@ -10,4 +10,14 @@
 	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)), url(Background.jpeg);
 	background-size: cover;
 	background-position: center;
-}}
+}
+
+.barradinav{
+	width: 85%;
+	margin: auto;
+	padding: 35px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+
+}
