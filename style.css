@@ -60,9 +60,9 @@
 	line-height: 25px;
 }
 
-.mappa{
+.mappa iframe{
 	width: 250px;
-	height: 85vh;
+	height: 85px;
 	margin-top: 80px;
 	margin-right: 150px;
 	border-radius: 25px,25px;
