@@ -62,8 +62,7 @@
 
 .mappa iframe{
 	width: 250px;
-	height: 85px;
-	margin-top: 80px;
-	margin-right: 150px;
+	height: 250px;
+	padding: 25px;
 	border-radius: 25px,25px;
 }
