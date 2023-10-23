@@ -59,3 +59,11 @@
 	font-weight: 100;
 	line-height: 25px;
 }
+
+.mappa{
+	width: 250px;
+	height: 85vh;
+	margin-top: 80px;
+	margin-right: 150px;
+	border-radius: 25px,25px;
+}
