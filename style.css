@@ -34,7 +34,8 @@
 
 }
 .barradinav ul li a{
-	text-decoration: none;
+	text-decoration: underline;
+	text-shadow: 100%;
 	color: #fff;
 	text-transform: uppercase;
 }
