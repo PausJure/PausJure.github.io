@@ -62,14 +62,14 @@
 .mappa iframe{
 	width: 400px;
 	height: 300px;
-	padding: 25px;
-	border-radius: 25px,25px;
+	padding: 85px;
+	border-radius: 110px;
 }
 
 .background2{
 	width: 100%;
-	height: 100%;
+	height: 100vh;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(https://4kwallpapers.com/images/walls/thumbs_3t/3985.jpg);
-	background-position: center;
+	background-position: left;
 	background-size: cover;
 }
