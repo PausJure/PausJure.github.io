@@ -74,6 +74,7 @@
 	background-size: cover;
 }
 .aboutustxt{
-	color: blue;
-	padding-block: 35px;
+	color: royalblue;
+	padding: 35px;
+	position: absolute;
 }
