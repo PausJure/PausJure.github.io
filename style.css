@@ -79,5 +79,8 @@
 	transform: translateY(20%);
 	left: 60%;
 	top: 20%;
-
+}
+.Home{
+	style="left: 85%; 
+	bottom: 85%;"
 }
