@@ -74,11 +74,10 @@
 	background-size: cover;
 }
 .aboutustxt{
-	color: royalblue;
-	padding: 35px;
+	color: goldenrod;
 	position: absolute;
-	left: 65%;
+	transform: translateY(-50%);
+	left: 60%;
 	top: 20%;
-	padding: 35px;
 
 }
