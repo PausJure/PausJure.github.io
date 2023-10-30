@@ -76,7 +76,7 @@
 .aboutustxt{
 	color: goldenrod;
 	position: absolute;
-	transform: translateY(-50%);
+	transform: translateY(20%);
 	left: 60%;
 	top: 20%;
 
