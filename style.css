@@ -76,6 +76,9 @@
 .aboutustxt{
 	color: royalblue;
 	padding: 35px;
-	position: relative;
-	
+	position: absolute;
+	left: 65%;
+	top: 20%;
+	padding: 35px;
+
 }
