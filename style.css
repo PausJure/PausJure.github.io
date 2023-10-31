@@ -73,13 +73,17 @@
 	background-position: center;
 	background-size: cover;
 }
+
 .aboutustxt{
 	color: goldenrod;
 	position: absolute;
 	transform: translateY(20%);
-	left: 60%;
+	left: 50%;
 	top: 20%;
+	text-align: center;
+	
 }
+
 .Home{
 	left: 90%;
 	bottom: 85%;
