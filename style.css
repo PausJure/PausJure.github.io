@@ -81,6 +81,8 @@
 	top: 20%;
 }
 .Home{
-	style="left: 85%; 
-	bottom: 85%;"
+	left: 85%;
+	bottom: 85%;
+	width: 150px;
+	cursor: pointer;
 }
