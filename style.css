@@ -91,3 +91,9 @@
 	bottom: 85%;
 	position: absolute;
 }
+
+.abtImg2{
+	border-radius: 50px;
+	position: absolute;
+	height: 75vh;
+}
