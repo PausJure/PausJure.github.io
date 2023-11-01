@@ -94,6 +94,7 @@
 
 .abtImg2{
 	border-radius: 50px;
-	position: absolute;
-	height: 75vh;
+	height: 200px;
+	padding: 20px;
+	
 }
