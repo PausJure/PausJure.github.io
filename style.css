@@ -116,10 +116,21 @@
 }
 
 .BgrndFRUTT1 img{
-	padding: 20px;
+	padding: 50px;
 	width: 350px;
 	height: 250px;
-	border-radius: 50px;
+	border-radius: 80px;
+	top: 1%;
+}
+
+.BgrndFRUTT1  p{
+	color: whitesmoke;
+	padding: 100px;
+	width: 600px;
+	position: absolute;
+	font-size: 25px;
+	right: 5%;
+	top: 1%;
 }
 
 .BgrndFRUTT2 {
@@ -130,7 +141,17 @@
 }
 
 .BgrndFRUTT2 img{
-	padding: 20px;
+	padding: 30px;
+	border-radius: 60px;
 	width: 350px;
 	height: 250px;
-	border-radius: 50px;
+}
+
+.BgrndFRUTT2  p{
+	color: whitesmoke;
+	padding: 100px;
+	width: 600px;
+	position: absolute;
+	font-size: 25px;
+	left: 5%;
+}
