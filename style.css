@@ -109,6 +109,28 @@
 }
 
 .BgrndFRUTT1 {
+	width: 100%;
+	height: 50vh;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(pomidor.jpg);
 	background-size: cover;
 }
+
+.BgrndFRUTT1 img{
+	padding: 20px;
+	width: 350px;
+	height: 250px;
+	border-radius: 50px;
+}
+
+.BgrndFRUTT2 {
+	width: 100%;
+	height: 50vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(zucchineB.jpg);
+	background-size: cover;
+}
+
+.BgrndFRUTT2 img{
+	padding: 20px;
+	width: 350px;
+	height: 250px;
+	border-radius: 50px;
