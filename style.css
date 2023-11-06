@@ -59,6 +59,13 @@
 	line-height: 25px;
 }
 
+.social img{
+	left: 95%;
+	top: 90%;
+	width: 50px;
+	position: absolute;
+}
+
 .mappa iframe{
 	width: 400px;
 	height: 300px;
@@ -78,9 +85,9 @@
 	color: goldenrod;
 	position: absolute;
 	transform: translateY(20%);
-	left: 50%;
-	right: 12%;
-	top: 20%;
+	left: 40%;
+	right: 10%;
+	top: 15%;
 	text-align: center;
 	padding: 20px;
 	padding-right: 40px;
@@ -92,9 +99,16 @@
 	position: absolute;
 }
 
-.abtImg2{
+.abtImg2 img{
 	border-radius: 50px;
-	height: 200px;
+	height: 20px;
 	padding: 20px;
-	
+	position: absolute;
+	transform: translateX(210px);
+	bottom: 5%;
+}
+
+.BgrndFRUTT1 {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(pomidor.jpg);
+	background-size: cover;
 }
