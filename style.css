@@ -126,15 +126,18 @@
 	height: 250px;
 	border-radius: 80px;
 	top: 1%;
+	right: 10%;
+	position: absolute;
 }
 
 .BgrndVERD1  p{
 	color: whitesmoke;
 	padding: 100px;
-	width: 600px;
+	padding-top: 70px;
+	width: 700px;
 	position: absolute;
 	font-size: 25px;
-	right: 5%;
+	left: 7%;
 	top: 1%;
 }
 
@@ -148,17 +151,19 @@
 .BgrndVERD2 img{
 	padding: 30px;
 	border-radius: 60px;
-	width: 350px;
+	width: 450px;
 	height: 250px;
 }
 
 .BgrndVERD2  p{
 	color: whitesmoke;
 	padding: 100px;
+	padding-bottom: 50px;
 	width: 600px;
 	position: absolute;
 	font-size: 25px;
-	left: 5%;
+	right: 7%;
+	bottom: 4%;
 }
 /*////////////////////////////////////////////////FRUTTA.html////////////////////////////////////////////////////////////*/
 .BgrndFRUTT1 {
@@ -178,11 +183,12 @@
 .BgrndFRUTT1  p{
 	color: whitesmoke;
 	padding: 100px;
+	padding-top: 80px;
 	width: 600px;
 	position: absolute;
 	font-size: 25px;
-	right: 5%;
-	top: 1%;
+	right: 7%;
+	top: 0.5%;
 }
 
 .BgrndFRUTT2 {
@@ -202,6 +208,8 @@
 .BgrndFRUTT2  p{
 	color: whitesmoke;
 	padding: 100px;
+	padding-bottom: 25px;
+	bottom: 6%;
 	width: 600px;
 	position: absolute;
 	font-size: 25px;
@@ -221,15 +229,19 @@
 	border-radius: 60px;
 	width: 350px;
 	height: 250px;
+	position: absolute;
+	left: 10%;
+	top: 5%;
 }
 
 .BgrndANIM1  p{
 	color: whitesmoke;
 	padding: 100px;
-	width: 600px;
+	padding-top: 70px;
+	width: 650px;
 	position: absolute;
 	font-size: 25px;
-	right: 5%;
+	right: 10%;
 	top: 1%;
 }
 
@@ -243,15 +255,17 @@
 .BgrndANIM2 img{
 	padding: 30px;
 	border-radius: 60px;
-	width: 350px;
+	width: 400px;
 	height: 250px;
 }
 
 .BgrndANIM2  p{
 	color: whitesmoke;
 	padding: 100px;
+	padding-bottom: 70px;
 	width: 600px;
 	position: absolute;
 	font-size: 25px;
-	left: 5%;
+	left: 7%;
+	bottom: 2%;
 }
