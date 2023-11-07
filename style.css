@@ -176,14 +176,16 @@
 .BgrndFRUTT1 img{
 	padding: 60px;
 	border-radius: 90px;
-	width: 400px;
+	width: 430px;
 	height: 250px;
+	position: absolute;
+	left: 8%;
 }
 
 .BgrndFRUTT1  p{
 	color: whitesmoke;
 	padding: 100px;
-	padding-top: 80px;
+	padding-top: 70px;
 	width: 600px;
 	position: absolute;
 	font-size: 25px;
